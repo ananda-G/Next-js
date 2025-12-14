@@ -24,13 +24,13 @@
     }
   },
   "include": [
-    "next-env.d.ts",
-    "**/*.ts",
-    "**/*.tsx",
-    ".next/types/**/*.ts",
-    "app/lib/placeholder-data.ts",
-    "scripts/seed.js",
-    ".next/dev/types/**/*.ts"
+  "next-env.d.ts",
+  "**/*.ts",
+  "**/*.tsx",
+  ".next/types/**/*.ts",
+  "app/lib/placeholder-data.ts",
+  "scripts/seed.js",
+  ".next/dev/types/**/*.ts"
   ],
   "exclude": ["node_modules"]
-}
+} 
